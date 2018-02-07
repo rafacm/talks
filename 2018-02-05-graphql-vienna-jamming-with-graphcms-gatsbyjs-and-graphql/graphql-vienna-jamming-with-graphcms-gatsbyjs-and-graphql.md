@@ -135,7 +135,7 @@ slidenumbers: true
 
 # Back-end?
 
-![inline](assets/ElectronCloud.png)
+![inline](assets/1_oZi6DlwCAzCuMfrvp29KBg.png)
 
 ---
 
@@ -147,7 +147,7 @@ slidenumbers: true
 
 # The CMS (Content Management System) is dead!
 
-![left, fit](assets/louis16-execution.jpg)
+![left](assets/louis16_execution.jpg)
 
 ---
  
@@ -175,10 +175,10 @@ slidenumbers: true
 ![left](assets/Shape_of_things_to_come_dust_jacket.jpg)
 
 ## API-driven CMSs:
-1. Contentful
-1. prismic.io
-1. GENTICS Mesh (Made in Vienna!)
-1. GraphCMS
+1. [contentful](https://www.contentful.com/)
+1. [prismic](https://prismic.io)
+1. [GraphCMS](https://graphcms.com/)
+1. [GENTICS Mesh](https://getmesh.io) (Made in Vienna!)
 1. ...
 
 ---
@@ -217,9 +217,22 @@ slidenumbers: true
 
 ---
 
+# My background?
+
+### Back-end Java/Scala development (type and function signatures)
+### Server-side "front-end" generated with dashes of JavaScript
+
+---
+
 # Why GatsbyJS? JavaScript?! NodeJS?!
 
 ![inline](assets/friends-enemise-close.jpg)
+
+---
+
+# Why headless CMS?
+
+![inline](assets/headlesscms.png)
 
 ---
 
@@ -246,13 +259,13 @@ slidenumbers: true
 
 # Computers?
 
-![inline](assets/ZXSpectrum48k-1024x752.jpg)
+![inline](assets/ZXSpectrum48k.jpg)
 
 ---
 
 # Computers?
 
-![inline](assets/Ibm_pc_5150-1024x951.jpg)
+![inline](assets/Ibm_pc_5150.jpg)
 
 ---
 
@@ -310,16 +323,16 @@ slidenumbers: true
 
 # Lessons learned?
 
-1. O Brother! Where art thou TYPES?!
-1. At the end of the day, ship the f* thing
-1. Introspecting (metadata) GraphQL query **results** 
-1. Content **hierarchy** is fundamental 
+1. GatsbyJS codebase: O Brother! Where art thou TYPES?!
+1. NPM: at the end of the day, relase/ship the f* thing
+1. GraphQL: introspecting (metadata/types) GraphQL query **results** 
+1. GraphCMS: content **hierarchy** is fundamental 
 
 ---
 
 # A CMS just does CRUD, or?
 
-![inline](assets/iceberg.jpg)
+![inline](assets/vectorstock_11234419.jpg)
 
 ---
 
@@ -360,30 +373,57 @@ slidenumbers: true
 - Slide 11: [Leonardo Da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
 - Slide 12: "The Neutron Dance" ([video](https://www.youtube.com/watch?v=i-jdhorGtQI)) by [The Pointer Sisters](https://en.wikipedia.org/wiki/The_Pointer_Sisters)
 - Slide 13: "The Neutron Dance" ([video](https://www.youtube.com/watch?v=i-jdhorGtQI)) by [The Pointer Sisters](https://en.wikipedia.org/wiki/The_Pointer_Sisters)
-
----
-
-# Credits
 - Slide 14: [Kernspaltung](https://de.wikipedia.org/wiki/Kernspaltung)
 - Slide 15: [Kernspaltung](https://de.wikipedia.org/wiki/Kernspaltung)
 
-- Slide 1: Man of constant sorrow: https://www.youtube.com/watch?v=meCZ5hWNRFU
-- Slide 1: Thomas J. Watson picture: https://en.wikipedia.org/wiki/Thomas_J._Watson#/media/File:Thomas_J_Watson_Sr.jpg
-- Slide 1: Alice in Wonderland: https://medium.com/alice-s-adventures-in-wonderland/sir-john-tenniel-s-classic-illustrations-of-alice-in-wonderland-2c3bbdca3a77
+---
+
+# Credits
+- Slide 16: [Electron cloud](https://medium.com/@jaberibnertaher/myth-busting-about-electron-cloud-f50ff5465d43)
+- Slide 17: [Own picture](https://twitter.com/rafacm)
+- Slide 18: [Execution of Louis XVI](https://en.wikipedia.org/wiki/Execution_of_Louis_XVI)
+- Slide 19: [Execution of Louis XVI](https://en.wikipedia.org/wiki/Execution_of_Louis_XVI)
+- Slide 20: [Headless CMS](https://headlesscms.org/)
+- Slide 21: [JAMStack](https://jamstack.org)
 
 ---
 
 # Credits
-- Slide 1: "The Death of Louis XVI King of France": https://en.wikipedia.org/wiki/Execution_of_Louis_XVI#/media/File:Louis_XVI_-_Execution.jpg
-- Slide 1: Neutron Dance: https://www.youtube.com/watch?v=i-jdhorGtQI
-- Slide 1: Fission: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kernspaltung.svg/800px-Kernspaltung.svg.png
-- Slide 1: Nuclear fission chain reaction: https://commons.wikimedia.org/wiki/File:Nuclear_fission_chain_reaction.svg
+
+- Slide 22: [The Shape of Things to Come](https://en.wikipedia.org/wiki/The_Shape_of_Things_to_Come)
+- Slide 23: [Man of constant sorrow](https://www.youtube.com/watch?v=meCZ5hWNRFU)
+- Slide 25: [GraphCMS](https://graphcms.com)
+- Slide 26: [GatsbyJS](https://gatsbyjs.org)
+- Slide 29: ["Keep your friends close, but your enemies closer"](https://en.wikipedia.org/wiki/The_Godfather)
+- Slide 31: [Thomas J. Watson](https://en.wikipedia.org/wiki/Thomas_J._Watson)
 
 ---
 
-# Credits 
-- Slide 1: Cloud providers: http://infographic.statista.com/normal/chartoftheday_4546_cloud_infrastructure_market_share_2015_n.jpg
-- Slide 1: Computers ENIAC: http://www.phillyvoice.com/70-years-ago-six-philly-women-eniac-digital-computer-programmers/
-- Slide 1: Mainframe computer: https://alness.gnomio.com/pluginfile.php/209/mod_resource/content/1/On-line%20Resources/C%20Systems%20Int2/page_25.htm
-- Slide 1: Hosted CMSs: https://en.wikipedia.org/wiki/List_of_content_management_systems
+# Credits
 
+- Slide 32: [ENIAC](http://www.phillyvoice.com/70-years-ago-six-philly-women-eniac-digital-computer-programmers/)
+- Slide 33: [Mainframe computer](https://alness.gnomio.com/pluginfile.php/209/mod_resource/content/1/On-line%20Resources/C%20Systems%20Int2/page_25.htm)
+- Slide 34: [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum)
+- Slide 35: [IBM Personal Computer](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
+- Slide 36: [Smartphones picture](http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/10/11/Photos/Processed/blockchian-k5dG--621x414@LiveMint.jpg)
+- Slide 37: [Top 5 Cloud Infrastructure Service Providers](https://www.statista.com/chart/4546/cloud-infrastructure-market-share-2015/)
+
+---
+
+# Credits
+
+- Slide 38: [Thomas J. Watson](https://en.wikipedia.org/wiki/Thomas_J._Watson)
+- Slide 39: [GatsbyJS GraphCMS Plugin Presentation](https://graphcms.com/blog/gatsby-graphcms-plugin/)
+- Slide 40: [GatsbyJS GraphCMS Plugin](https://github.com/GraphCMS/gatsby-source-graphcms)
+- Slide 42: [GatsbyJS GraphCMS Plugin Credits](https://github.com/GraphCMS/gatsby-source-graphcms/graphs/contributors)
+- Slide 43: [carmen-marcos.art](http://carmen-marcos.art/)
+- Slide 44: [carmen-marcos.art GitHub](https://github.com/rafacm/carmen-marcos.art)
+
+---
+
+# Credits
+
+- Slide 47: [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_\(film\))
+- Slide 48: [The Big Lebowski](https://en.wikipedia.org/wiki/The_Big_Lebowski)
+- Slide 49: [Spies Like Us](https://en.wikipedia.org/wiki/Spies_Like_Us)
+- Slide 50: [Jamming](https://en.wikipedia.org/wiki/Jamming_\(song\)) ([video](https://www.youtube.com/watch?v=oFRbZJXjWIA))
