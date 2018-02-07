@@ -326,7 +326,7 @@ slidenumbers: true
 1. GatsbyJS codebase: O Brother! Where art thou TYPES?!
 1. NPM: at the end of the day, relase/ship the f* thing
 1. GraphQL: introspecting (metadata/types) GraphQL query **results** 
-1. GraphCMS: content **hierarchy** would be great to have when scaling 
+1. GraphCMS: content **hierarchy** a must have when scaling 
 
 ---
 
