@@ -32,31 +32,31 @@ slidenumbers: true
 
 # Credits
 
-![inline](the-front-end-awakens.png)
+![inline](assets/the-front-end-awakens.png)
 
 ---
 
 # Fasten your seatbelts...
 
-![inline](Forklift-Safety-Signs-Stop-Fasten-Your-Seat-Belts-With-Seat-Belt-Symbol-W1539-ba.jpg)
+![inline](assets/Forklift-Safety-Signs-Stop-Fasten-Your-Seat-Belts-With-Seat-Belt-Symbol-W1539-ba.jpg)
 
 ---
 
 # Who are you?
 
-![inline](wall-e-and-eve.jpg)
+![inline](assets/wall-e-and-eve.jpg)
 
 ---
 
 # Website Meta Language
 
-![inline](thewml-org.png)
+![inline](assets/thewml-org.png)
 
 ---
 
 # Hosted CMSs
 
-![left](theUsualSuspects_1416603356.jpg)
+![left](assets/theUsualSuspects_1416603356.jpg)
 
 # Spectrum of choices:
 
@@ -70,7 +70,7 @@ slidenumbers: true
 
 # The Anatomy of a CMS
 
-![left](Rembrandt_Harmensz._van_Rijn_007.jpg)
+![left](assets/Rembrandt_Harmensz._van_Rijn_007.jpg)
 
 1. Content modeling, versioning, ...
 1. Content editing, versioning, ...
@@ -85,7 +85,7 @@ slidenumbers: true
 
 # We need a "website"
 
-![left](leonardo-da-vinci.jpg)
+![left](assets/leonardo-da-vinci.jpg)
 
 > "Software is never finished, just abandoned"
 -- Leonardo Dev Vinci
@@ -97,7 +97,7 @@ slidenumbers: true
 
 # The Neutron Dance
 
-![left](neutron-dance.png)
+![left](assets/neutron-dance.png)
 
 > And it's hard to say
 > Just **how some [content] never changes**
@@ -111,7 +111,7 @@ slidenumbers: true
 
 # The Neutron Dance
 
-![left](neutron-dance.png)
+![left](assets/neutron-dance.png)
 
 1. The half-life of content is considerable higher than that of its presentation.
 1. Content **editing** and content **presentation** are different concerns
@@ -121,7 +121,7 @@ slidenumbers: true
 
 ---
 
-![inline](800px-Kernspaltung.svg.png)
+![inline](assets/800px-Kernspaltung.svg.png)
 
 # CMS -> Back-end + Front-end
 
@@ -129,50 +129,50 @@ slidenumbers: true
 
 # Back-end?
 
-![inline](2000px-Nuclear_fission_chain_reaction.svg.png)
+![inline](assets/2000px-Nuclear_fission_chain_reaction.svg.png)
 
 ---
 
 # Back-end?
 
-![inline](ElectronCloud.png)
+![inline](assets/ElectronCloud.png)
 
 ---
 
 # Back-end?
 
-![inline](cloud.png)
+![inline](assets/cloud.png)
 
 ---
 
 # The CMS (Content Management System) is dead!
 
-![left, fit](louis16-execution.jpg)
+![left, fit](assets/louis16-execution.jpg)
 
 ---
  
 # Long Live the CMS (Content Micro-Service)!
 # a.k.a. Headless CMS
 
-![left](Louis_XVI_-_Execution.jpg)
+![left](assets/Louis_XVI_-_Execution.jpg)
 
 ---
 
 # Headless CMS
 
-![inline](headlesscms.png)
+![inline](assets/headlesscms.png)
 
 --- 
 
 # JAMstack
 
-![inline](jamstack.png)
+![inline](assets/jamstack.png)
 
 ---
 
 # The Shape of Things to Come
 
-![left](Shape_of_things_to_come_dust_jacket.jpg)
+![left](assets/Shape_of_things_to_come_dust_jacket.jpg)
 
 ## API-driven CMSs:
 1. Contentful
@@ -185,7 +185,7 @@ slidenumbers: true
 
 # O Content, where art thou?
 
-![inline](manofconstantsorrow_obrotherwhereartthou.jpg)
+![inline](assets/manofconstantsorrow_obrotherwhereartthou.jpg)
 
 ---
 
@@ -196,19 +196,19 @@ slidenumbers: true
 1. Proliferation of content repository APIs adds overhead for developers to learn about the **semantics** of the API
 1. One API to rule them all?
 
-![inline](graphql.png)
+![inline](assets/graphql.png)
 
 ---
 
 # GraphCMS
 
-![inline](graphcms-web.png)
+![inline](assets/graphcms-web.png)
 
 ---
 
 # GatsbyJS
 
-![inline](gatsbyjs-web.png)
+![inline](assets/gatsbyjs-web.png)
 
 ---
 
@@ -219,13 +219,13 @@ slidenumbers: true
 
 # Why GatsbyJS? JavaScript?! NodeJS?!
 
-![inline](friends-enemise-close.jpg)
+![inline](assets/friends-enemise-close.jpg)
 
 ---
 
 # Computers
 
-![inline](1280px-Thomas_J_Watson_Sr.jpg)
+![inline](assets/1280px-Thomas_J_Watson_Sr.jpg)
 
 > "I think there is **a world market for maybe five computers**."
 -- Thomas J. Watson, president of IBM, **1943**
@@ -234,55 +234,55 @@ slidenumbers: true
 
 # Computers?
 
-![inline](02102016_ENIAC_programmers_LA.2e16d0ba.fill-735x490.jpg)
+![inline](assets/02102016_ENIAC_programmers_LA.2e16d0ba.fill-735x490.jpg)
 
 ---
 
 # Computers?
 
-![inline](pic016.jpg)
+![inline](assets/pic016.jpg)
 
 ---
 
 # Computers?
 
-![inline](ZXSpectrum48k-1024x752.jpg)
+![inline](assets/ZXSpectrum48k-1024x752.jpg)
 
 ---
 
 # Computers?
 
-![inline](Ibm_pc_5150-1024x951.jpg)
+![inline](assets/Ibm_pc_5150-1024x951.jpg)
 
 ---
 
 # Computers?
 
-![inline](blockchian-k5dG--621x414-LiveMint.jpg)
+![inline](assets/blockchian-k5dG--621x414-LiveMint.jpg)
 
 ---
 
 # Computers?
 
-![inline](chartoftheday_4546_cloud_infrastructure_market_share_2015_n.jpg)
+![inline](assets/chartoftheday_4546_cloud_infrastructure_market_share_2015_n.jpg)
 
 ---
 
 # 5 Computers!
 
-![inline](1280px-Thomas_J_Watson_Sr.jpg)
+![inline](assets/1280px-Thomas_J_Watson_Sr.jpg)
 
 ---
 
 # GatsbyJS GraphCMS Plugin
 
-![inline](graphcms-gatsbyjs.png)
+![inline](assets/graphcms-gatsbyjs.png)
 
 ---
 
 # GatsbyJS GraphCMS Plugin
 
-![inline](gatsby-source-graphcms-github.png)
+![inline](assets/gatsby-source-graphcms-github.png)
 
 ---
 
@@ -294,15 +294,15 @@ slidenumbers: true
 
 # GatsbyJS GraphCMS Plugin Credits
 
-![inline](gatsby-source-graphcms-github-credits.png)
+![inline](assets/gatsby-source-graphcms-github-credits.png)
 
 ---
 
-![inline](carmen-marcos-web.png)
+![inline](assets/carmen-marcos-web.png)
 
 ---
 
-![inline](carmen-marcos-github.png)
+![inline](assets/carmen-marcos-github.png)
 
 ---
 
@@ -319,29 +319,29 @@ slidenumbers: true
 
 # A CMS just does CRUD, or?
 
-![inline](iceberg.jpg)
+![inline](assets/iceberg.jpg)
 
 ---
 
 # If all you have is a hammer...
 
-![inline](2001-a-space-odyssey.jpg)
+![inline](assets/2001-a-space-odyssey.jpg)
 
 ---
 
 # Yeah, well, that's just like, your opinion, man
 
-![inline](big-lebowski-opinion.jpg)
+![inline](assets/big-lebowski-opinion.jpg)
 
 ---
 
 # What's yours?!
 
-![inline](spies_like_us_01_641x383.jpg)
+![inline](assets/spies_like_us_01_641x383.jpg)
 
 ---
 
-![inline](Were-jammin.jpg)
+![inline](assets/Were-jammin.jpg)
 
 ---
 
