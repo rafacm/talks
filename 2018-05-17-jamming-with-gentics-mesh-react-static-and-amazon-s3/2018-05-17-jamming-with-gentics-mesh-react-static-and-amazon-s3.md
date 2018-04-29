@@ -1,14 +1,40 @@
-footer: rafael cordones | [@rafacm](https://twitter.com/rafacm) | JAMming with GraphCMS, GatsbyJS and GraphQL | [GraphQL Vienna Meetup](https://www.meetup.com/GraphQL-Vienna/)
+footer: rafael cordones | [@rafacm](https://twitter.com/rafacm) | JAMming with Gentics Mesh, Reat Static and Amazon S3 | [We Are Developers Workshops @ APA-IT](https://www.wearedevelopers.com/)
 slidenumbers: true
 
-# JAMming with GraphCMS,
-# GatsbyJS and GraphQL
-### [GraphQL Vienna February Meetup](https://www.meetup.com/GraphQL-Vienna/events/245911090/)
-#### February 5th, 2018
+# JAMming with Gentics Mesh, Reat Static and Amazon S3
+### [We Are Developers Workshops @ APA-IT](https://www.wearedevelopers.com/)
+#### Vienna, May 16th, 2018
 
 ---
 
 # Agenda
+1. Talk (30 min)
+1. Live coding (30 min)
+1. Break (15 min.)
+1. Your turn! (45 min.)
+
+---
+
+# Topics
+1. Patterns in the sky
+1. The History of CMS... content... separation of container and information...
+1. Headless vs decoupled vs API-First
+
+---
+
+# What will you learn?
+1. What is content? --> Dean Barker book
+1.  
+
+
+---
+
+> The trouble with our times is that the future is not what it used to be. 
+> -- Paul Valéry
+
+Reference: https://quoteinvestigator.com/2012/12/06/future-not-used/ 
+
+--- 
 
 1. **Content** management *and presentation/distribution* on the web
 1. The Shape of Things to Come... many are already here
@@ -19,9 +45,29 @@ slidenumbers: true
 
 ---
 
+# Implementation **Patterns**
+1. Is the user logged in?
+2. Breadcrumb (location / context)
+3. Paginating results 
+4. Responsive images
+
+---
+
+# Content Trees?
+
+![left](assets/content-trees-tweet.png)
+
+--- 
+
+# Breadcrumb
+
+1. 
+
+--- 
+
 # **WARNING** 
-# Meetup in progress...
-# We can talk **face to face** about **ideas**!!!
+# Workshop in progress...
+# We can talk **face to face** about **ideas**... and even try them!!!
 
 ---
 
@@ -342,6 +388,12 @@ slidenumbers: true
 
 ---
 
+“In theory, theory and practice are the same. In practice, they are not.”
+-- Benjamin Brewster
+Reference: https://quoteinvestigator.com/2018/04/14/theory/#more-18386
+
+--- 
+
 # Yeah, well, that's just like, your opinion, man
 
 ![inline](assets/big-lebowski-opinion.jpg)
@@ -427,3 +479,11 @@ slidenumbers: true
 - Slide 48: [The Big Lebowski](https://en.wikipedia.org/wiki/The_Big_Lebowski)
 - Slide 49: [Spies Like Us](https://en.wikipedia.org/wiki/Spies_Like_Us)
 - Slide 50: [Jamming](https://en.wikipedia.org/wiki/Jamming_\(song\)) ([video](https://www.youtube.com/watch?v=oFRbZJXjWIA))
+
+--- 
+
+# Credits (TODO)
+
+- Slide XX: [Talking Heads - Once in a Lifetime](https://www.youtube.com/watch?v=5IsSpAOD6K8)
+- Slide XX: [Talking Heads - This Must Be The Place (Naive Melody)](https://www.youtube.com/watch?v=pVrVY540xdc)
+- Slide XX: [CMS Content Organization Structures: Trees vs Facets vs Tags](https://www.sitepoint.com/cms-content-organization-structures-trees-vs-facets-vs-tags/)
