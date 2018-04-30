@@ -45,6 +45,14 @@ Reference: https://quoteinvestigator.com/2012/12/06/future-not-used/
 
 ---
 
+# The Anatomy of a Web Page
+
+1. Menu
+2. Breadcrumb
+3. ... 
+
+---
+
 # Implementation **Patterns**
 1. Is the user logged in?
 2. Breadcrumb (location / context)
@@ -191,14 +199,19 @@ Reference: https://quoteinvestigator.com/2012/12/06/future-not-used/
 
 ---
 
-# The CMS (Content Management System) is dead!
+# The CMS* is dead!
+
+*Content Management System
 
 ![left](assets/louis16_execution.jpg)
 
----
- 
-# Long Live the CMS (Content Micro-Service)!
-# a.k.a. Headless CMS
+--- 
+
+# Long Live the CMS*!
+
+a.k.a. Headless CMS
+a.k.a. API-First CMS
+a.k.a. *Content Micro-Service?
 
 ![left](assets/Louis_XVI_-_Execution.jpg)
 
@@ -213,6 +226,12 @@ Reference: https://quoteinvestigator.com/2012/12/06/future-not-used/
 # JAMstack
 
 ![inline](assets/jamstack.png)
+
+---
+ 
+# Thining in Components
+
+![left 50%](assets/thinking-in-java.jpg)
 
 ---
 
