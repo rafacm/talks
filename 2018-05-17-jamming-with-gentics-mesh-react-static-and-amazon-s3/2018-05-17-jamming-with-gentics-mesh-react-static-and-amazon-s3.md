@@ -1,8 +1,9 @@
-footer: rafael cordones | [@rafacm](https://twitter.com/rafacm) | JAMming with Gentics Mesh, Reat Static and Amazon S3 | [We Are Developers Workshops @ APA-IT](https://www.wearedevelopers.com/)
+footer: rafael cordones | @rafacm | JAMming with Gentics Mesh, Reat Static and Amazon S3 | We Are Developers Workshops @ APA-IT
 slidenumbers: true
 
-# JAMming with Gentics Mesh, Reat Static and Amazon S3
-### [We Are Developers Workshops @ APA-IT](https://www.wearedevelopers.com/)
+# JAMming with Gentics Mesh, 
+# Reat Static and Amazon S3
+### We Are Developers /  Workshops @ APA-IT
 #### Vienna, May 16th, 2018
 
 ---
@@ -19,13 +20,20 @@ slidenumbers: true
 1. Patterns in the sky
 1. The History of CMS... content... separation of container and information...
 1. Headless vs decoupled vs API-First
+1. Decoupled front-end vs. CMS driven layouts
 
 ---
+
+# The Anatomy of a Page
+
+1. Components
+1. ...
+
+--- 
 
 # What will you learn?
 1. What is content? --> Dean Barker book
 1.  
-
 
 ---
 
