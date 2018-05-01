@@ -409,6 +409,17 @@ a.k.a. *Content Micro-Service?
 
 ---
 
+# The Breadcrumb
+
+1. What it is?
+1. Why do we need it?
+1. Where does it come from?
+1. Hansel & Gretel
+1. SEO -> Google   
+1. Metadata
+
+---
+
 # If all you have is a hammer...
 
 ![inline](assets/2001-a-space-odyssey.jpg)
