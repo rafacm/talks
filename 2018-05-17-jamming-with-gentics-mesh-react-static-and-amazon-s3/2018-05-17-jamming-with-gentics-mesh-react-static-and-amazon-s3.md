@@ -8,61 +8,275 @@ slidenumbers: true
 
 ---
 
-# Agenda
-1. Talk (30 min)
-1. Live coding (30 min)
-1. Break (15 min.)
-1. Your turn! (45 min.)
+![](assets/the-front-end-awakens.png)
 
 ---
 
-# Topics
-1. Patterns in the sky
-1. The History of CMS... content... separation of container and information...
-1. Headless vs decoupled vs API-First
-1. Decoupled front-end vs. CMS driven layouts
+# **WARNING** 
+# Talk and workshop in progress...
+
+## We can talk **face to face** about **ideas**... and even try them!!
+
+---
+
+# Constructive and **de**constructive criticism welcome!
+
+![left fit](assets/deconstruction-for-beginners.jpg)
+
+---
+
+# Agenda
+
+1. Talk + Q&A (45 min.)
+1. Break (15 min.) ??
+1. Tour de code + let's play! (1 h.)
+
+---
+
+# Talk
+
+1. Context
+2. Information
+3. (Web) Content (Management)
+5. (Web) Content (Delivery / Publishing)
+5. (Web) Content Application Development
+
+---
+
+# Fasten your seatbelts...
+
+![inline](assets/Forklift-Safety-Signs-Stop-Fasten-Your-Seat-Belts-With-Seat-Belt-Symbol-W1539-ba.jpg)
+
+---
+
+# Who are you?
+
+![inline](assets/wall-e-and-eve.jpg)
+
+---
+
+# The Context of this Talk
+
+![inline](assets/the-appartment.gif)
+
+---
+
+# The Context of this Talk
+
+![inline](assets/marx-brothers-cabin.jpg)
+
+---
+
+# The Context of this Talk
+
+![inline](assets/screenshot-communities.png)
+
+---
+
+# The Context of this Talk
+
+![left fit](assets/the-art-of-scalability.jpg)
+
+### **People**: content editors, designers, front-end developers, back-end developers (integrations)
+### + **Processes**: ideation, UX, design, development, deployment, operations, maintenance
+### + **Technology**: web, CMSs, smartphones, React, SEO, systems integrations, ...
+## = Scalability
+---
+
+# Where are we going?
+
+![left fit](assets/alice-cheesirecat.jpg)
+
+> “If you don't know where you are going any road can take you there”
+― Lewis Carroll, "Alice in Wonderland"
+
+---
+
+# How did we get here? (a byte of history)
+
+![left fit](assets/santayana-life-of-reason.jpg)
+
+> "Those who cannot remember the past are condemned to repeat it."
+- George Santayana
+
+---
+
+# How did we get here? (14th century AD)
+
+![inline](assets/scriptorium.jpg)
+
+---
+
+# How did we get here? (1960s)
+
+![left](assets/79-0009-207.jpg)
+
+---
+
+# How did we get here? (1960s)
+
+![left](assets/79-0009-207.jpg)
+
+---
+
+# How did we get here? (1970s)
+
+![left](assets/vt100.jpg)
+
+---
+
+# How did we get here? (1980s)
+
+![inline](assets/408836-ibm-pcjr-charlie-chaplin-ad-commercial-653x367.jpg)
+
+---
+
+# How did we get here? (1990s)
+
+![inline](assets/berners-lee.jpg)
+
+---
+
+# How did we get here? (1990s)
+
+![inline](assets/Cameron-s-World-2-geocities-its-nice-that-1.jpg)
+
+---
+
+# How did we get here? (2000s)
+
+![inline](assets/steve-jobs-iphone.jpg)
+
+---
+
+# These are not three separate devices,...
+
+![inline](assets/steve-jobs-iphone.jpg)
+
+---
+
+# ... this is one device, and we are calling it iPhone.
+
+![inline](assets/steve-jobs-iphone.jpg)
+
+---
+
+# How did we get here?
+
+![left fit](assets/information-architecture-4ht-edition.jpg)
+
+"[...] there was a time when **information** existed in a **tightly coupled relationship with the artifacts that conveyed that information**. [...] However, this particular **container** (the disc) **and the information** (the music) were **irrevocably tied together** after being manufactured."
+
+---
+
+# How did we get here?
+
+![left fit](assets/information-architecture-4ht-edition.jpg)
+
+"Going back further—to a time before mechanical reproductions— **we find an even tighter relationship between information and its containers**. Think of early **books**: [...] Because of the rarity and cost of these early books, **reading them was an activity reserved for particular classes of people** (e.g., scholars, monks, aristocrats, etc.) in specific times and places (e.g., an abbey library during daylight hours)."
+
+--- 
+
+# The Information
+
+![left fit](assets/the-information-book.jpg)
+
+### Who creates it?
+### Where is it stored? (write)
+### Who transmits it? (copy)
+### How is it transmitted?
+### Who consumes it it?
+### How is it accessed? (read)
+### ...
+
+---
+
+# From Abstract to Concrete
+
+![inline](assets/s_shutterstock_218576362.jpg)
+
+---
+
+# Content Management
+
+![left fit](assets/web-content-management.jpg)
+
+"**Content** is **information produced** through **editorial process** and ultimately **intended for human consumption** **via publication**."
+
+---
+
+# Content Management System (CMS)
+
+![left fit](assets/web-content-management.jpg)
+
+"A **content management system (CMS)** is a **software** package that provides some level of **automation** for the **tasks** required to effectively **manage content**."
+
+---
+
+# The Anatomy of a Content Management System (CMS)
+![left](assets/Rembrandt_Harmensz._van_Rijn_007.jpg)
+
+1. Content **management**
+  1. Modeling, versioning, editing, ...
+  1. ACLs (who can do what) & audit (who did what when), ...
+1. Content **delivery**
+  1. Querying / search
+  1. Templating / rendering (frameworks, libraries, ...)
+  1. Analytics, personalization, SEO, ...
+
+---
+
+# Typology of Web Content Management Systems
+
+1. Coupled vs decoupled
+2. Decoupled vs headless vs API-first
+3. On-premise vs Software-as-a-Service (SaaS)
+
+---
+
+# Coupled vs decoupled
+
+### Coupled: management and delivery on the same server
+### TODO: add diagram
+
+---
+
+# Decoupled vs headless vs API-first
+
+### Decoupled: management and delivery on different servers **but** CMS manages the delivery environment
+### TODO: Gentics CMS is a decoupled CMS, or?
+
+---
+
+#  On-premise vs Software-as-a-Service (SaaS)
+
+### TODO: add pros & cons
+### Marketing (external) vs IT (internal) driven projects
+### Total life of the content: ephemeral (campaign websites) vs corporate website
 
 ---
 
 # The Anatomy of a Page
 
-1. Components
-1. ...
+![inline](assets/anatomy-of-a-webpage.jpg)
 
 --- 
-
-# What will you learn?
-1. What is content? --> Dean Barker book
-1.  
-
----
-
-> The trouble with our times is that the future is not what it used to be. 
-> -- Paul Valéry
-
-Reference: https://quoteinvestigator.com/2012/12/06/future-not-used/ 
-
---- 
-
-1. **Content** management *and presentation/distribution* on the web
-1. The Shape of Things to Come... many are already here
-1. Why am I here?
-  1. We need a "website"
-  1. JAMstack, GraphCMS and GatsbyJS
-  1. GatsbyJS GraphCMS Plugin  
-
----
 
 # The Anatomy of a Web Page
 
-1. Menu
-2. Breadcrumb
-3. ... 
+![left fit](assets/anatomy-of-a-webpage.jpg)
+
+2. Page layout
+2. Menu / navigation 
+2. Breadcrumb (location / context)
+3. Paginating results 
+4. Responsive images
 
 ---
 
-# Implementation **Patterns**
-1. Is the user logged in?
+# Implementation Patterns
+1. Page layout
+2. Menu / navigation 
 2. Breadcrumb (location / context)
 3. Paginating results 
 4. Responsive images
@@ -78,35 +292,6 @@ Reference: https://quoteinvestigator.com/2012/12/06/future-not-used/
 # Breadcrumb
 
 1. 
-
---- 
-
-# **WARNING** 
-# Workshop in progress...
-# We can talk **face to face** about **ideas**... and even try them!!!
-
----
-
-# About this talk
-# Constructive and **de**constructive criticism welcome!
-
----
-
-# Credits
-
-![inline](assets/the-front-end-awakens.png)
-
----
-
-# Fasten your seatbelts...
-
-![inline](assets/Forklift-Safety-Signs-Stop-Fasten-Your-Seat-Belts-With-Seat-Belt-Symbol-W1539-ba.jpg)
-
----
-
-# Who are you?
-
-![inline](assets/wall-e-and-eve.jpg)
 
 ---
 
@@ -127,21 +312,6 @@ Reference: https://quoteinvestigator.com/2012/12/06/future-not-used/
 1. Many offer REST APIs
 1. ...
 1. They are actually **development platforms**
-
----
-
-# The Anatomy of a CMS
-
-![left](assets/Rembrandt_Harmensz._van_Rijn_007.jpg)
-
-1. Content modeling, versioning, ...
-1. Content editing, versioning, ...
-1. Querying / search
-1. ACLs: who can do what
-1. Audit: who did what when
-1. Content rendering (frameworks, libraries, ...)
-1. Content analytics, personalization, SEO, ...
-1. ...
 
 ---
 
@@ -237,7 +407,7 @@ a.k.a. *Content Micro-Service?
 
 ---
  
-# Thining in Components
+# Thinking in Components
 
 ![left 50%](assets/thinking-in-java.jpg)
 
@@ -273,13 +443,13 @@ a.k.a. *Content Micro-Service?
 
 ---
 
-# GraphCMS
+# Gentics CMS
 
-![inline](assets/graphcms-web.png)
+![inline](assets/gentics-mesh-web.png)
 
 ---
 
-# GatsbyJS
+# React Static
 
 ![inline](assets/gatsbyjs-web.png)
 
@@ -360,27 +530,15 @@ a.k.a. *Content Micro-Service?
 
 ---
 
-# GatsbyJS GraphCMS Plugin
+# Workshop
 
-![inline](assets/graphcms-gatsbyjs.png)
-
----
-
-# GatsbyJS GraphCMS Plugin
-
-![inline](assets/gatsby-source-graphcms-github.png)
+![inline](assets/gentics-mesh-angular-example-screenshot.png)
 
 ---
 
-# GatsbyJS GraphCMS Plugin
+# A page by any other name 
 
-# Tour de code
-
----
-
-# GatsbyJS GraphCMS Plugin Credits
-
-![inline](assets/gatsby-source-graphcms-github-credits.png)
+A page is the representation of a node.
 
 ---
 
@@ -445,6 +603,13 @@ Reference: https://quoteinvestigator.com/2018/04/14/theory/#more-18386
 ---
 
 ![inline](assets/Were-jammin.jpg)
+
+---
+
+> The trouble with our times is that the future is not what it used to be. 
+> -- Paul Valéry
+
+Reference: https://quoteinvestigator.com/2012/12/06/future-not-used/ 
 
 ---
 
@@ -525,3 +690,6 @@ Reference: https://quoteinvestigator.com/2018/04/14/theory/#more-18386
 - Slide XX: [Talking Heads - Once in a Lifetime](https://www.youtube.com/watch?v=5IsSpAOD6K8)
 - Slide XX: [Talking Heads - This Must Be The Place (Naive Melody)](https://www.youtube.com/watch?v=pVrVY540xdc)
 - Slide XX: [CMS Content Organization Structures: Trees vs Facets vs Tags](https://www.sitepoint.com/cms-content-organization-structures-trees-vs-facets-vs-tags/)
+
+- https://cs.uwaterloo.ca/40th/Chronology/printable.shtml
+- 
