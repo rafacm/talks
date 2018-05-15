@@ -37,9 +37,9 @@ slidenumbers: true
 
 1. Context
 2. Information
-3. (Web) Content (Management)
-5. (Web) Content (Delivery / Publishing)
-5. (Web) Content Application Development
+3. Content, Web Content
+5. Web Content Management & Delivery/Publishing
+5. Web Content-driven Application Development & Deployment
 
 ---
 
@@ -230,7 +230,7 @@ slidenumbers: true
 
 1. Coupled vs decoupled
 2. Decoupled vs headless vs API-first
-3. On-premise vs Software-as-a-Service (SaaS)
+3. On-premise/cloud vs Software-as-a-Service (SaaS)
 
 ---
 
@@ -250,15 +250,51 @@ slidenumbers: true
 
 #  On-premise vs Software-as-a-Service (SaaS)
 
-### TODO: add pros & cons
+### TODO: add pros & cons | management vs delivery
 ### Marketing (external) vs IT (internal) driven projects
 ### Total life of the content: ephemeral (campaign websites) vs corporate website
 
 ---
 
-# The Anatomy of a Page
+# Content Management
 
-![inline](assets/anatomy-of-a-webpage.jpg)
+### TODO: add diagram with people and processes
+
+---
+
+# Content Management: Content Modelling
+
+## TODO
+### Types
+### Versioning and migration of content?
+### Agile? Agile what?!
+---
+
+# Content Management: the Content Tree
+
+### Hierarchical organization helps with scalability
+### Categories by another name?
+
+---
+
+# Content Management: Tags and Tag Families
+
+### Jumping out of the tree
+### Flat organizational structure 
+
+---
+
+# Content Delivery
+
+### TODO: add diagram with people and processes **and technology**
+
+---
+
+# Content Delivery
+
+## From content to a web page
+## From content to an application
+## From content to a web component
 
 --- 
 
@@ -266,20 +302,15 @@ slidenumbers: true
 
 ![left fit](assets/anatomy-of-a-webpage.jpg)
 
-2. Page layout
 2. Menu / navigation 
 2. Breadcrumb (location / context)
 3. Paginating results 
 4. Responsive images
+5. **Content**... components
 
 ---
 
-# Implementation Patterns
-1. Page layout
-2. Menu / navigation 
-2. Breadcrumb (location / context)
-3. Paginating results 
-4. Responsive images
+![inline](assets/gentics-mesh-web.png)
 
 ---
 
@@ -288,11 +319,6 @@ slidenumbers: true
 ![left](assets/content-trees-tweet.png)
 
 --- 
-
-# Breadcrumb
-
-1. 
-
 ---
 
 # Website Meta Language
