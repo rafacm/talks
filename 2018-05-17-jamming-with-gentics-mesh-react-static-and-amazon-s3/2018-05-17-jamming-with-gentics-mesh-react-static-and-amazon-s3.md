@@ -8,6 +8,12 @@ slidenumbers: true
 
 ---
 
+# Who am I?
+
+![inline](assets/rafa.jpg)
+
+---
+
 # Agenda
 
 1. Teaser talk: how did I get here? (15 min.)
@@ -35,31 +41,22 @@ slidenumbers: true
 
 ---
 
-# Who am I?
-
-![inline](assets/rafa.jpg)
-
----
-
-# A long time ago...
-![inline](assets/thewml-org.png)
-
----
-
 # Web Content Projects
 ![left 40%](assets/screenshot-community-2.png)
 
-1. Internal content publication
-2. External user generated content
+1. (Internal) content publication
+2. (External) user generated content
 3. 6-12 months projects
 2. 10x of page types
 2. 100x of components
 2. 1000x of content items
 2. 100000x of users
 
+Implemented on a specialized CMS.
+
 ---
 
-## Lesons learned?
+## Lesons learned
 
 ![left 60%](assets/the-song-remains-the-same.jpg)
 
@@ -72,30 +69,24 @@ slidenumbers: true
 
 ---
 
-# Lessons learned: thinking in components
+# Lessons learned: thinking (and implementing!) in components
 ![inline](assets/top-solution-authors.png)
 
 ---
 
-# Lessons learned: the anatomy of a component
-![left 70%](assets/1024px-Da_Vinci_Vitruve_Luc_Viatour-1.jpg)
+# Lessons learned: SEO
 
-1. Retrieve and aggregate data 
-1. Render the data + HTML markup + styling 
-1. React to user input
+# TODO: add page speed
 
 ---
 
-# Lessons learned: "we need a website"
-![left 40%](assets/leonardo-da-vinci.jpg)
+# TODO: Monolithic/full-stack CMS
 
-> "Software is never finished, just abandoned"
--- Leonardo Dev Vinci
+---
+# TODO: What are the isssues?
 
-# The initial **successful website** turns...
-# into a **web application**.
-
-# CMSs are **development platforms**
+## Content management
+## Front-end development + delivery 
 
 ---
 
@@ -154,7 +145,7 @@ Tomorrow Friday @ 09:30 h. on Stage F1!
 ![left 35%](assets/Rembrandt_Harmensz._van_Rijn_007.jpg)
 
 1. Content modeling
-1. Content editing
+1. Content creation/editing
 1. Querying / search
 1. Permissions: who can do what
 1. Audit: who did what when
@@ -192,6 +183,29 @@ Tomorrow Friday @ 09:30 h. on Stage F1!
 
 ---
 
+# Gentics Mesh
+![inline 110%](assets/gentics-mesh-topics.png)
+
+---
+
+# Gentics Mesh
+
+![left 100%](assets/gentics-mesh-logo.png)
+
+1. (Hierarchical) content tree: scalability! 
+1. Users, groups, roles & permissions
+1. APIs: REST, GraphQL, ElasticSearch 
+1. Image manipulation: via API & via management UI
+1. Multi-lingual support
+1. On-(cloud)-premise: own my data! 
+
+---
+
+# JAMstack
+![inline](assets/jamstack.png)
+
+---
+
 # How did I get here?
 ![inline 45%](assets/carmen-marcos-art-screeenshot.png)
 
@@ -206,29 +220,6 @@ Tomorrow Friday @ 09:30 h. on Stage F1!
 1. ...
 2. GraphCMS + (JavaScript) GatsbyJS
 1. **Gentics Mesh + (JavaScript) React Static**
-
----
-
-# Gentics Mesh
-![inline 110%](assets/gentics-mesh-topics.png)
-
----
-
-# Gentics Mesh
-
-![left 100%](assets/gentics-mesh-logo.png)
-
-1. (Hierarchical) content tree: scalability! 
-1. Users, groups, roles & permissions
-1. APIs: REST, GraphQL, ElasticSearch 
-1. Image manipulation: via API & via management UI
-1. Multi-linguality
-1. On-(cloud)-premise: own my data! 
-
----
-
-# JAMstack
-![inline](assets/jamstack.png)
 
 ---
 
@@ -281,140 +272,6 @@ Tomorrow Friday @ 09:30 h. on Stage F1!
 ![inline](assets/getmesh-screenshot.png)
 
 ---
-
-# Gentics Mesh
-
----
-
-# GatsbyJS
-
-![inline](assets/gatsbyjs-web.png)
-
----
-
-> "It’s like déjà vu all over again"
--- Yogi Berra
-
----
-
-# My background?
-
-### Back-end Java/Scala development (type and function signatures)
-### Server-side "front-end" generated with dashes of JavaScript
-
----
-
-# Why GatsbyJS? JavaScript?! NodeJS?!
-
-![inline](assets/friends-enemise-close.jpg)
-
----
-
-# GatsbyJS GraphCMS Plugin
-
-![inline](assets/graphcms-gatsbyjs.png)
-
----
-
-# GatsbyJS GraphCMS Plugin
-
-![inline](assets/gatsby-source-graphcms-github.png)
-
----
-
-# GatsbyJS GraphCMS Plugin
-
-# Tour de code
-
----
-
-# GatsbyJS GraphCMS Plugin Credits
-
-![inline](assets/gatsby-source-graphcms-github-credits.png)
-
----
-
-![inline](assets/carmen-marcos-web.png)
-
----
-
-![inline](assets/carmen-marcos-github.png)
-
----
-
-# GatsbyJS GraphCMS Plugin
-
-# Lessons learned?
-
-1. GatsbyJS codebase: O Brother! Where art thou TYPES?!
-1. NPM: at the end of the day, relase/ship the f* thing
-1. GraphQL: introspecting (metadata/types) GraphQL query **results** 
-1. GraphCMS: content **hierarchy** a must have when scaling 
-
----
-# Computers
-
-![inline](assets/1280px-Thomas_J_Watson_Sr.jpg)
-
-> "I think there is **a world market for maybe five computers**."
--- Thomas J. Watson, president of IBM, **1943**
-
----
-
-# Computers?
-
-![inline](assets/02102016_ENIAC_programmers_LA.2e16d0ba.fill-735x490.jpg)
-
----
-
-# Computers?
-
-![inline](assets/pic016.jpg)
-
----
-
-# Computers?
-
-![inline](assets/ZXSpectrum48k.jpg)
-
----
-
-# Computers?
-
-![inline](assets/Ibm_pc_5150.jpg)
-
----
-
-# Computers?
-
-![inline](assets/blockchian-k5dG--621x414-LiveMint.jpg)
-
----
-
-# Computers?
-
-![inline](assets/chartoftheday_4546_cloud_infrastructure_market_share_2015_n.jpg)
-
----
-
-# 5 Computers!
-
-![inline](assets/1280px-Thomas_J_Watson_Sr.jpg)
----
-
-# A CMS just does CRUD, or?
-
-![inline](assets/vectorstock_11234419.jpg)
-
----
-
-# If all you have is a hammer...
-
-![inline](assets/2001-a-space-odyssey.jpg)
-
----
-
-![inline](assets/Were-jammin.jpg)
 
 ---
 
