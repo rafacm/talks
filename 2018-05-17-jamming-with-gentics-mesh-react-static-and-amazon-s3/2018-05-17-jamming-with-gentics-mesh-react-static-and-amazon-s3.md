@@ -20,7 +20,7 @@ slidenumbers: true
 
 ---
 
-# Talk
+# Teaser talk
 
 ---
 
@@ -41,7 +41,7 @@ slidenumbers: true
 
 ---
 
-# Background
+# A long time ago...
 ![inline](assets/thewml-org.png)
 
 ---
@@ -59,7 +59,7 @@ slidenumbers: true
 
 ---
 
-## Patterns
+## Lesons learned?
 
 ![left 60%](assets/the-song-remains-the-same.jpg)
 
@@ -72,12 +72,12 @@ slidenumbers: true
 
 ---
 
-# Patterns: thinking in components
+# Lessons learned: thinking in components
 ![inline](assets/top-solution-authors.png)
 
 ---
 
-# Patterns: the anatomy of a component
+# Lessons learned: the anatomy of a component
 ![left 70%](assets/1024px-Da_Vinci_Vitruve_Luc_Viatour-1.jpg)
 
 1. Retrieve and aggregate data 
@@ -86,7 +86,7 @@ slidenumbers: true
 
 ---
 
-# Patterns: "we need a website"
+# Lessons learned: "we need a website"
 ![left 40%](assets/leonardo-da-vinci.jpg)
 
 > "Software is never finished, just abandoned"
