@@ -3,7 +3,7 @@ slidenumbers: true
 
 ![inline](assets/gentics-mesh-react-static-amazon-s3-logos.png)
 
-# JAMming with Gentics Mesh, Reat Static and Amazon S3
+# JAMming with Gentics Mesh, React Static and Amazon S3
 #### We Are Developers /  Workshops @ APA-IT / Vienna, May 16th, 2018
 
 ---
@@ -12,14 +12,14 @@ slidenumbers: true
 
 1. Talk: how did we get here? ~10 min.
 1. Gentics Mesh: Tour de Force ~15 min.
-1. React & React Static (Reader's Digest Version) ~10 min.
+1. React & React Static ~10 min.
 1. Amazon S3 ~5 min.
 1. React Static Gentics Mesh Example ~10 min.
 1. Let's play! 
 
 ---
 
-# Intro talk
+# Talk
 
 ---
 
@@ -31,6 +31,23 @@ slidenumbers: true
 # Who are you?
 
 ![inline](assets/wall-e-and-eve.jpg)
+
+---
+
+# What am I?
+
+Examples: each in one slide
+How many components, users, ...?
+
+---
+
+# Typology of CMS
+Less text and more graphics
+
+---
+
+# Headlines: shorter!
+
 
 ---
 
@@ -51,6 +68,9 @@ slidenumbers: true
 
 # Past
 
+---
+
+# 
 ---
 
 # Hosted CMSs
@@ -74,7 +94,7 @@ slidenumbers: true
 1. Content modeling, versioning, ...
 1. Content editing, versioning, ...
 1. Querying / search
-1. ACLs: who can do what
+1. Permissions: who can do what
 1. Audit: who did what when
 1. Content rendering (frameworks, libraries, ...)
 1. Content analytics, personalization, SEO, ...
@@ -89,7 +109,7 @@ slidenumbers: true
 > "Software is never finished, just abandoned"
 -- Leonardo Dev Vinci
 
-# The website initial **successful website** turns into ...
+# The initial **successful website** turns into ...
 # ... a **web app**.
 
 ---
@@ -113,16 +133,14 @@ slidenumbers: true
 ![left](assets/neutron-dance.png)
 
 1. The half-life of content is considerable higher than that of its presentation.
-1. Content **editing** and content **presentation** are different concerns
-1. Developers need to learn *each* CMS *APIs* and *framework*
-1. Editors need to *learn* the specific CMS administration interface
-1. Customers need to find developers for the implementation... every 2 years
+1. Content **management** and content **presentation** are different concerns done by different **people**
+1. Developers need to learn *each* CMS *APIs* and *frameworks*
 
 ---
 
-![inline](assets/800px-Kernspaltung.svg.png)
+# CMS = Back-end + Front-end
 
-# CMS -> Back-end + Front-end
+![inline](assets/800px-Kernspaltung.svg.png)
 
 ---
 
@@ -144,18 +162,31 @@ slidenumbers: true
 
 ---
 
-# The CMS (Content Management System) is dead!
+# The CMS* is dead!
+## * Content Management System
 
 ![left](assets/louis16_execution.jpg)
 
 ---
  
-# Long Live the CMS (Content Micro-Service)!
-# a.k.a. Headless CMS
+# Long Live the CMS*
+## *Content Micro-Service
+### a.k.a. API-driven CMS
+### a.k.a. Headless CMS
 
 ![left](assets/Louis_XVI_-_Execution.jpg)
 
 ---
+
+# Present
+
+---
+
+# Recap: the browser is the new server!
+
+![inline](assets/Welcome_to_Netscape.gif)
+
+----
 
 # Headless CMS
 
@@ -163,32 +194,48 @@ slidenumbers: true
 
 --- 
 
-# JAMstack
+# Gentics Mesh
 
-![inline](assets/jamstack.png)
+![left 100%](assets/gentics-mesh-logo.png)
+
+1. Content tree
+1. Users, groups, roles & permissions
+1. Multi-linguality
+1. APIs: REST, GraphQL, ElasticSearch 
+1. ...
+
+--- 
+
+# Gentics Mesh
+
+![left 100%](assets/gentics-mesh-logo.png)
+
+## If you want to ***own your content infrastructure*** 
 
 ---
 
-# The Shape of Things to Come
+# How does it compare?
 
-![left](assets/Shape_of_things_to_come_dust_jacket.jpg)
+![left 100%](assets/gentics-mesh-logo.png)
 
-## API-driven CMSs:
-1. [contentful](https://www.contentful.com/)
-1. [prismic](https://prismic.io)
-1. [GraphCMS](https://graphcms.com/)
-1. [GENTICS Mesh](https://getmesh.io) (Made in Vienna!)
+## Other API-driven CMSs:
+1. [contentful](https://www.contentful.com/) (Saas)
+1. [prismic](https://prismic.io) (Saas)
+1. [GraphCMS](https://graphcms.com/) (Saas)
+1. [Contenta CMS](https://www.contentacms.org/)
 1. ...
 
 ---
 
-# O Content, where art thou?
+--
+
+# Content APIs: O Content, where art thou?
 
 ![inline](assets/manofconstantsorrow_obrotherwhereartthou.jpg)
 
 ---
 
-# O Content, where art thou?
+# Content APIs: O Content, where art thou?
 
 ### "I Am A [Dev] of Constant Sorrow" --- Soggy Bottom [Devs]
 
@@ -199,9 +246,13 @@ slidenumbers: true
 
 ---
 
-# GraphCMS
+# Gentics Mesh
 
-![inline](assets/graphcms-web.png)
+![inline](assets/getmesh-screenshot.png)
+
+---
+
+# Gentics Mesh
 
 ---
 
