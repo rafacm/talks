@@ -151,7 +151,7 @@ Headless / API-first CMSs
 
 ---
 
-# Gentics Mesh
+# Headless CMS: Gentics Mesh
 
 ![left 50%](assets/getmesh-website-screenshot.png)
 
@@ -161,7 +161,7 @@ Headless / API-first CMSs
 3. **Multi-lingual** support
 4. On-(cloud)-premise: **own your content**! 
 5. Users, groups, roles & permissions
-6. ...
+6. Content **migrations**
 
 ---
 
