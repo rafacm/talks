@@ -88,14 +88,11 @@ Implemented on a **monolithic CMS**.
 
 ---
 
-# Content rendering (frameworks, libraries, ...)
-![left 50%](assets/que-sera-sera.jpg)
-
-What if...
+# What if...
+![left 80%](assets/what-if.png)
 
 1. CMS back-end & front-end were completely separated?
 1. Content could be managed independently of the front-end?
-1. Content could be accessed just via APIs
 1. Front-end could be developed with any tech or framework?
 
 ... the **CMS would just focus on content**
