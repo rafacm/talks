@@ -10,13 +10,13 @@ slidenumbers: true
 
 # Agenda
 
-1. Teaser talk (15 min.)
-1. Gentics Mesh: tour _de_ Features (30 min.)
+1. Teaser talk
+1. Gentics Mesh: tour _de_ features 
 1. Break (10 min.)
-1. React Static & React (10 min.)
-1. Feature implementation (30 min.) 
-1. Amazon S3 (5 min.)
-1. Wrap-up (5 min.) 
+1. React Static & React 
+1. Features implementation
+1. Amazon S3 
+1. Wrap-up
 
 ---
 
@@ -37,8 +37,8 @@ slidenumbers: true
 3. 6-12 months projects
 2. 10x of page types
 2. 100x of components
-2. 1000x of content items
-2. 100000x of users
+2. 1,000x of content items
+2. 100,000x of users
 
 Implemented on a **monolithic CMS**.
 
@@ -48,9 +48,9 @@ Implemented on a **monolithic CMS**.
 ![left 35%](assets/screenshot-community-2.png)
 
 Web **front-end design** 
-...
+<br/>
 **changes** every 2 years but 
-....
+<br/>
 the **content remains the same**
 
 ---
@@ -64,17 +64,18 @@ the **content remains the same**
 ![left 50%](assets/carmen-marcos-art-page-speed.png)
 
 1. Page speed: Time to first byte (TTFB)
-2. Own light-weight markup
+2. Light-weight markup
 2. Pre-rendered markup vs render markup per request
 3. Nice & structured URLs
-4. Breadcrumbs with meta-data
+4. Breadcrumbs with metadata
+5. ...
 
 ---
 
 # The Anatomy of a CMS
 ![left 35%](assets/Rembrandt_Harmensz._van_Rijn_007.jpg)
 
-1. Content modeling
+1. Content modeling (and migrations)
 1. Content creation/editing
 1. Querying / search
 1. Permissions: who can do what
@@ -89,9 +90,9 @@ the **content remains the same**
 What if...
 
 1. CMS back-end & front-end were completely separated?
-1. Front-end could be developed with any tech or framework?
 1. Content could be managed independently of the front-end?
-1. Content could be access just via APIs
+1. Content could be accessed just via APIs
+1. Front-end could be developed with any tech or framework?
 
 ... the **CMS would just focus on content**
 
@@ -164,7 +165,7 @@ Headless / API-first CMSs
 
 ---
 
-# Thinking (and implementing!) in **components**: React
+# React: it's components all the way down!
 ![inline](assets/top-solution-authors-components.png)
 
 ---
@@ -175,8 +176,7 @@ Headless / API-first CMSs
 ---
 
 # SEO, SEO, SEO
-
-![left 50%](assets/jamstack-screenshot.png)
+![left 15%](assets/seo.png)
 
 JAMstack
 
@@ -184,29 +184,33 @@ JAMstack
 2. **A**PIs: to access content
 3. **M**arkup: pre-rendered HTML markup
 
-/
-/
-/
-**The web browser is the new web server!**
+Amazon S3 for content delivery
+
+1. Managed, scalable and cheap
+ 
+/ **The web browser is the new web server!** /
 
 ---
 
 # Main takeways (1/2)
+![left 75%](assets/back-end.png)
 
 As a back-end developer:
 
-1. Do you build your own object-relational mapper, business process enginge, ...? No you don't.
-1. Do you build your own content management micro-service/infrastructure
-1. 
+1. Do you build your own search engine, business process engine, ...? 
+No you don't.
+1. Do you build your own content management infrastructure? 
+You should not.
 
 ---
 
 # Main takeways (2/2)
+![left 75%](assets/front-end.png)
 
 As a front-end developer
-1. abstract away the management aspect of content
-1. you have *freedom* on the front-end implementation
-1.
+
+1. Abstract away the management aspect of content
+1. Focus on the front-end implementation with freedom of choice
 
 ---
 
@@ -230,10 +234,6 @@ As a front-end developer
 ---
 
 # Gentics Mesh: Tour de Features
-
----
-
-# Gentics Mesh: Tour de Features
 ![inline 110%](assets/gentics-mesh-topics.png)
 
 ---
@@ -244,5 +244,10 @@ As a front-end developer
 ---
 
 # Amazon S3 for website hosting
+![left 40%](assets/amazon-s3-website-hosting.png)
 
+1. S3 is the static web server
+1. S3 is fully managed and scales
+1. (Optionally) add CDN capabilities with CloudFront
+ 
 --- 
