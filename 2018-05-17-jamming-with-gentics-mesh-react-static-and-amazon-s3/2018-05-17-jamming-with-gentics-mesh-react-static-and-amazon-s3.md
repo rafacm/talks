@@ -282,4 +282,4 @@ https://github.com/rafacm/carmen-marcos-art-portfolio
  
 --- 
 
-# Thanks! 
+# Thanks for your time! 
