@@ -11,7 +11,7 @@ slidenumbers: true
 # Agenda
 
 1. Intro talk
-1. Gentics Mesh: tour _de_ features 
+1. Gentics Mesh: tour of features 
 1. Break (10 min.)
 1. React Static
 1. Features implementation
