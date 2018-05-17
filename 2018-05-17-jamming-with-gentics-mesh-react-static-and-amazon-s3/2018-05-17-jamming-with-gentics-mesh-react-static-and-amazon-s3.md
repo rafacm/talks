@@ -78,7 +78,7 @@ Implemented on a **monolithic CMS**.
 # The Anatomy of a CMS
 ![left 35%](assets/Rembrandt_Harmensz._van_Rijn_007.jpg)
 
-1. Content *modeling** 
+1. Content **modeling** 
 2. Existing content **migration**
 1. Content **creation/editing**
 1. Querying / search / API integrations
