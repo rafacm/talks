@@ -228,6 +228,13 @@ As a front-end developer
 
 ---
 
+# The Project
+![inline](assets/carmen-marcos-art-screenshot-short.png)
+
+https://github.com/rafacm/carmen-marcos-art-portfolio
+
+---
+
 # Any questions?!
 
 ![inline](assets/spies_like_us_01_641x383.jpg)
@@ -250,9 +257,10 @@ As a front-end developer
 # React Static: Develop
 ![left 75%](assets/react-static-develop.png)
 
+1. Very low conceptual complexity.
+   2. getSiteData()
+   3. getRouteData()
 1. Hot-reload!
-2. getSiteData()
-3. getRouteData()
 
 ---
 
