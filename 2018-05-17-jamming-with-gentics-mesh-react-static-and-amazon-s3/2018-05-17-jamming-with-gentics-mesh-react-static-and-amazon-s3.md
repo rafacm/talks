@@ -91,9 +91,9 @@ Implemented on a **monolithic CMS**.
 # What if...
 ![left 80%](assets/what-if.png)
 
-1. CMS back-end & front-end were completely separated?
-1. Content could be managed independently of the front-end?
-1. Front-end could be developed with any tech or framework?
+1. CMS **back-end** & **front-end** were completely **separated**?
+1. **Content editors** use an internal web interface?
+1. **Front-end** could be **developed with any tech** or framework?
 
 ... the **CMS would just focus on content**
 
