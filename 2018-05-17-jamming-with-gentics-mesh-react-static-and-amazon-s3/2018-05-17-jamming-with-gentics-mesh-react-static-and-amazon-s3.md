@@ -49,14 +49,12 @@ Implemented on a **monolithic CMS**.
 
 ---
 
-# The content stays the same 
+### The content stays the same 
 ![left 35%](assets/screenshot-community-2.png)
 
-Web **front-end design** 
-<br/>
-**changes** every 2 years but 
-<br/>
-the **content remains the same**
+##Web **front-end design** 
+##**changes** every 2 years but 
+##the **content remains the same**
 
 ---
 
