@@ -10,12 +10,12 @@ slidenumbers: true
 
 # Agenda
 
-1. Teaser talk (20 min.)
-1. Gentics Mesh: Tour de Features (30 min.)
+1. Teaser talk (15 min.)
+1. Gentics Mesh: tour _de_ Features (30 min.)
 1. Break (10 min.)
 1. React Static & React (10 min.)
 1. Feature implementation (30 min.) 
-1. Amazon S3 (10 min.)
+1. Amazon S3 (5 min.)
 1. Wrap-up (5 min.) 
 
 ---
@@ -44,7 +44,7 @@ Implemented on a **monolithic CMS**.
 
 ---
 
-# Lessons learned (1/3)
+# The content stays the same 
 ![left 35%](assets/screenshot-community-2.png)
 
 Web **front-end design** 
@@ -55,21 +55,19 @@ the **content remains the same**
 
 ---
 
-# Lessons learned (2/3)
+# Thinking (and implementing!) in **components**
 ![inline](assets/top-solution-authors.png)
-
-Thinking (and implementing!) in components
 
 ---
 
-# Lessons learned (3/3)
+# SEO, SEO, SEO
 ![left 50%](assets/carmen-marcos-art-page-speed.png)
 
-SEO, SEO, SEO: 
-
-1. PageSpeed
-2. Own markup
-2. Render markup per request vs pre-rendered markup
+1. Page speed: Time to first byte (TTFB)
+2. Own light-weight markup
+2. Pre-rendered markup vs render markup per request
+3. Nice & structured URLs
+4. Breadcrumbs with meta-data
 
 ---
 
@@ -80,7 +78,7 @@ SEO, SEO, SEO:
 1. Content creation/editing
 1. Querying / search
 1. Permissions: who can do what
-1. Content rendering (frameworks, libraries, ...)
+1. **Content rendering (frameworks, libraries, ...)**
 1. ...
 
 ---
@@ -118,17 +116,19 @@ What if...
 
 ---
 
-# Headless / API-first CMSs
+# The content stays the same
 ![left 60%](assets/headlesscms-gentics-mesh.png)
+
+Headless / API-first CMSs
 
 1. [contentful](https://www.contentful.com/) (Saas)
 1. [prismic](https://prismic.io) (Saas)
 1. [GraphCMS](https://graphcms.com/) (Saas)
-1. [Contenta CMS](https://www.contentacms.org/) (Drupal)
+1. [Contenta CMS](https://www.contentacms.org/) (Open-Source)
 1. ...
-1. [Gentics Mesh](https://getmesh.io)
+1. [Gentics Mesh](https://getmesh.io) (Open-Source)
 
-Different **content APIs**!
+... all with different **content APIs**!
 
 ---
 
@@ -146,7 +146,7 @@ Different **content APIs**!
 
 1. Proliferation of content repository APIs adds overhead for developers to learn about the **semantics** of the API
 1. One query API language to rule them all?
-1. GraphQL support is a MUST HAVE.
+1. **GraphQL support is a MUST HAVE.**
 
 ---
 
@@ -164,28 +164,49 @@ Different **content APIs**!
 
 ---
 
-# JAMstack
+# Thinking (and implementing!) in **components**: React
+![inline](assets/top-solution-authors-components.png)
+
+---
+
+# React Static: my gateway drug to React
+![inline](assets/react-phases.jpg)
+
+---
+
+# SEO, SEO, SEO
+
 ![left 50%](assets/jamstack-screenshot.png)
 
-1. JavaScript
-2. APIs
-3. Markup
+JAMstack
+
+1. **J**avaScript: the language of the web
+2. **A**PIs: to access content
+3. **M**arkup: pre-rendered HTML markup
+
+/
+/
+/
+**The web browser is the new web server!**
 
 ---
 
-# Use-cases for "statically" generated websites
+# Main takeways (1/2)
+
+As a back-end developer:
+
+1. Do you build your own object-relational mapper, business process enginge, ...? No you don't.
+1. Do you build your own content management micro-service/infrastructure
+1. 
 
 ---
 
-# Progressive Static-Site generators: React Static vs GatsbyJs
+# Main takeways (2/2)
 
----
-
-# React Static
-
---- 
-
-# Amazon S3 
+As a front-end developer
+1. abstract away the management aspect of content
+1. you have *freedom* on the front-end implementation
+1.
 
 ---
 
