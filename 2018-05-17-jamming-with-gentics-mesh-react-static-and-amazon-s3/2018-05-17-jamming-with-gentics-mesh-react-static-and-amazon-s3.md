@@ -8,16 +8,10 @@ slidenumbers: true
 
 ---
 
-# Who am I?
-
-![inline](assets/rafa.jpg)
-
----
-
 # Agenda
 
-1. Teaser talk: how did I get here? (15 min.)
-1. Gentics Mesh: Tour de Force (30 min.)
+1. Teaser talk (20 min.)
+1. Gentics Mesh: Tour de Features (30 min.)
 1. Break (10 min.)
 1. React Static & React (10 min.)
 1. Feature implementation (30 min.) 
@@ -30,19 +24,13 @@ slidenumbers: true
 
 ---
 
-# Fasten your seatbelts...
-
-![inline](assets/Forklift-Safety-Signs-Stop-Fasten-Your-Seat-Belts-With-Seat-Belt-Symbol-W1539-ba.jpg)
-
----
-
 # Credits
 ![inline](assets/the-front-end-strickes-back.png)
 
 ---
 
 # Web Content Projects
-![left 40%](assets/screenshot-community-2.png)
+![left 35%](assets/screenshot-community-2.png)
 
 1. (Internal) content publication
 2. (External) user generated content
@@ -52,50 +40,62 @@ slidenumbers: true
 2. 1000x of content items
 2. 100000x of users
 
-Implemented on a specialized CMS.
+Implemented on a **monolithic CMS**.
 
 ---
 
-## Lesons learned
+# Lessons learned (1/3)
+![left 35%](assets/screenshot-community-2.png)
 
-![left 60%](assets/the-song-remains-the-same.jpg)
-
-## ...
-## Web front-end design 
-## ...
-## changes every 2 years but 
-## ...
-## the content remains the same
+Web **front-end design** 
+...
+**changes** every 2 years but 
+....
+the **content remains the same**
 
 ---
 
-# Lessons learned: thinking (and implementing!) in components
+# Lessons learned (2/3)
 ![inline](assets/top-solution-authors.png)
 
----
-
-# Lessons learned: SEO
-
-# TODO: add page speed
+Thinking (and implementing!) in components
 
 ---
 
-# TODO: Monolithic/full-stack CMS
+# Lessons learned (3/3)
+![left 50%](assets/carmen-marcos-art-page-speed.png)
+
+SEO, SEO, SEO: 
+
+1. PageSpeed
+2. Own markup
+2. Render markup per request vs pre-rendered markup
 
 ---
-# TODO: What are the isssues?
 
-## Content management
-## Front-end development + delivery 
+# The Anatomy of a CMS
+![left 35%](assets/Rembrandt_Harmensz._van_Rijn_007.jpg)
+
+1. Content modeling
+1. Content creation/editing
+1. Querying / search
+1. Permissions: who can do what
+1. Content rendering (frameworks, libraries, ...)
+1. ...
 
 ---
 
-# Monolithic/full-stack CMS, we need to talk: what if...
-![left 60%](assets/que-sera-sera.jpg)
+# Content rendering (frameworks, libraries, ...)
+![left 50%](assets/que-sera-sera.jpg)
+
+What if...
 
 1. CMS back-end & front-end were completely separated?
 1. Front-end could be developed with any tech or framework?
 1. Content could be managed independently of the front-end?
+1. Content could be access just via APIs
+
+... the **CMS would just focus on content**
 
 ---
 
@@ -106,112 +106,91 @@ Implemented on a specialized CMS.
 
 ---
  
+# The CMS* is dead!
+## * Content **Management System**
 # Long Live the CMS*
 ## * Content **Micro-Service**
-### a.k.a. API-driven CMS
-### a.k.a. Headless CMS
+
+## a.k.a. Headless CMS
+## a.k.a. API-driven CMS
 
 ![left](assets/Louis_XVI_-_Execution.jpg)
 
 ---
 
-# Headless CMS
-
-![inline](assets/headlesscms.png)
-
----
-
-# Headless CMS
-![left 75%](assets/joel-spolsky.png)
-
-> "Making a major horizontal product that's
-> useful in any walk of life is almost 
-> impossible to pull off." 
--- Joel Spolsky*
-
-*He is here at WeAreDevelopers! 
-Tomorrow Friday @ 09:30 h. on Stage F1!
-
----
-
-# Why headless CMS?
-
-![inline](assets/headlesscms.png)
-
----
-
-# The Anatomy of a CMS
-
-![left 35%](assets/Rembrandt_Harmensz._van_Rijn_007.jpg)
-
-1. Content modeling
-1. Content creation/editing
-1. Querying / search
-1. Permissions: who can do what
-1. Audit: who did what when
-1. Content rendering (frameworks, libraries, ...)
-1. Content analytics, personalization, SEO, ...
-1. ...
-
----
-
 # Headless / API-first CMSs
-![left 25%](assets/theUsualSuspects_1416603356.jpg)
+![left 60%](assets/headlesscms-gentics-mesh.png)
 
 1. [contentful](https://www.contentful.com/) (Saas)
 1. [prismic](https://prismic.io) (Saas)
 1. [GraphCMS](https://graphcms.com/) (Saas)
 1. [Contenta CMS](https://www.contentacms.org/) (Drupal)
 1. ...
+1. [Gentics Mesh](https://getmesh.io)
+
+Different **content APIs**!
 
 ---
 
 # Content APIs: O Content, where art thou?
 
-![inline](assets/manofconstantsorrow_obrotherwhereartthou.jpg)
+![inline 90%](assets/manofconstantsorrow_obrotherwhereartthou.jpg)
+
+> "I Am A [Dev] of Constant Sorrow" 
+-- Soggy Bottom [Devs]
 
 ---
 
 # Content APIs: O Content, where art thou?
-
-### "I Am A [Dev] of Constant Sorrow" --- Soggy Bottom [Devs]
+![left 70%](assets/graphql-screenshot.png)
 
 1. Proliferation of content repository APIs adds overhead for developers to learn about the **semantics** of the API
-1. One API to rule them all?
-
-![inline](assets/graphql.png)
-
----
-
-# Gentics Mesh
-![inline 110%](assets/gentics-mesh-topics.png)
+1. One query API language to rule them all?
+1. GraphQL support is a MUST HAVE.
 
 ---
 
 # Gentics Mesh
 
-![left 100%](assets/gentics-mesh-logo.png)
+![left 50%](assets/getmesh-website-screenshot.png)
 
-1. (Hierarchical) content tree: scalability! 
-1. Users, groups, roles & permissions
-1. APIs: REST, GraphQL, ElasticSearch 
-1. Image manipulation: via API & via management UI
-1. Multi-lingual support
-1. On-(cloud)-premise: own my data! 
+1. (Hierarchical) **content tree**: scalability! 
+1. APIs: REST, **GraphQL**, ElasticSearch 
+1. **Image manipulation**: via API & via management UI
+3. **Multi-lingual** support
+4. On-(cloud)-premise: **own your content**! 
+5. Users, groups, roles & permissions
+6. ...
 
 ---
 
 # JAMstack
-![inline](assets/jamstack.png)
+![left 50%](assets/jamstack-screenshot.png)
+
+1. JavaScript
+2. APIs
+3. Markup
 
 ---
 
-# How did I get here?
-![inline 45%](assets/carmen-marcos-art-screeenshot.png)
+# Use-cases for "statically" generated websites
 
 ---
 
-# How did I get here?
+# Progressive Static-Site generators: React Static vs GatsbyJs
+
+---
+
+# React Static
+
+--- 
+
+# Amazon S3 
+
+---
+
+# The Project
+![left 45%](assets/carmen-marcos-art-screenshot.png)
 
 1. ...
 2. prismic.io + (Scala) Play! Framework
@@ -223,60 +202,18 @@ Tomorrow Friday @ 09:30 h. on Stage F1!
 
 ---
 
-# Yeah, well, that's just like, your opinion, man
-
-![inline](assets/big-lebowski-opinion.jpg)
-
----
-
-# What's yours?!
+# Any questions?!
 
 ![inline](assets/spies_like_us_01_641x383.jpg)
 
 ---
 
----
-
-# Topics
-1. Monolithic CMSs up to now where CMS = Content Management System
-1. Use-cases for API-first / headless CMSs where CMS = Content Micro-Service 
-1. Mesh unique features and how they compare to others (GraphCMS, Contentful, ...)
-1. Use-cases for "statically" generated websites
-1. Progressive Static-Site generators: React Static vs GatsbyJs
-
-----
-
-# WeAreDevelopers
-
-![inline](assets/wad-people-code-future.jpg)
-
+# Gentics Mesh: Tour de Features
 
 ---
 
-# Gentics Mesh
-
-![left 100%](assets/gentics-mesh-logo.png)
-
-## If you want to ***own your content infrastructure*** 
-
----
-
-# How does it compare?
-
-![left 100%](assets/gentics-mesh-logo.png)
-
----
-
-# Gentics Mesh
-
-![inline](assets/getmesh-screenshot.png)
-
----
-
----
-
-# Gentics Mesh: Tour de Force
-![inline 100%](assets/gentics-mesh-topics.png)
+# Gentics Mesh: Tour de Features
+![inline 110%](assets/gentics-mesh-topics.png)
 
 ---
 
@@ -285,4 +222,6 @@ Tomorrow Friday @ 09:30 h. on Stage F1!
 
 ---
 
-# Talk Main Points
+# Amazon S3 for website hosting
+
+--- 
