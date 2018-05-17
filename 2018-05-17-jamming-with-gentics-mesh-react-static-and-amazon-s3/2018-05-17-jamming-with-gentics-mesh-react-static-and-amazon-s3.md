@@ -234,20 +234,43 @@ As a front-end developer
 ---
 
 # Gentics Mesh: Tour de Features
-![inline 110%](assets/gentics-mesh-topics.png)
 
 ---
 
-# React Static & React
-![inline 100%](assets/react-static-mesh-topics.png)
+# Gentics Mesh: Tour de Features
+![inline 120%](assets/gentics-mesh-topics.png)
 
+---
+
+# React Static
+
+---
+
+# React Static: Develop
+![left 75%](assets/react-static-develop.png)
+
+1. Hot-reload!
+2. getSiteData()
+3. getRouteData()
+
+---
+
+# React Static: Serve
+![left 75%](assets/react-static-serve.png)
+
+1. Not only **static**
+1. Full-blown React SPA available too
+1. Pre-fetches <Link to={}> components 
+  
 ---
 
 # Amazon S3 for website hosting
-![left 40%](assets/amazon-s3-website-hosting.png)
+![left 50%](assets/amazon-s3-website-hosting.png)
 
 1. S3 is the static web server
 1. S3 is fully managed and scales
 1. (Optionally) add CDN capabilities with CloudFront
  
 --- 
+
+# Thanks! 
