@@ -10,17 +10,22 @@ slidenumbers: true
 
 # Agenda
 
-1. Teaser talk
+1. Intro talk
 1. Gentics Mesh: tour _de_ features 
 1. Break (10 min.)
-1. React Static & React 
+1. React Static
 1. Features implementation
 1. Amazon S3 
 1. Wrap-up
 
+--- 
+
+# Intro talk
+
 ---
 
-# Teaser talk
+# What brought you here?
+![inline](assets/you_are_here_galaxy.jpg)
 
 ---
 
@@ -75,10 +80,11 @@ the **content remains the same**
 # The Anatomy of a CMS
 ![left 35%](assets/Rembrandt_Harmensz._van_Rijn_007.jpg)
 
-1. Content modeling (and migrations)
-1. Content creation/editing
-1. Querying / search
-1. Permissions: who can do what
+1. Content *modeling** 
+2. Existing content **migration**
+1. Content **creation/editing**
+1. Querying / search / API integrations
+1. **Permissions**: who can do what (users, groups, ...)
 1. **Content rendering (frameworks, libraries, ...)**
 1. ...
 
