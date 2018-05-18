@@ -4,7 +4,7 @@ slidenumbers: true
 ![inline](assets/gentics-mesh-react-static-amazon-s3-logos.png)
 
 # JAMming with Gentics Mesh, React Static and Amazon S3
-#### We Are Developers /  Workshops @ APA-IT / Vienna, May 16th, 2018
+#### Workshop @ We Are Developers / Vienna, May 16th, 2018
 
 ---
 
@@ -14,7 +14,7 @@ slidenumbers: true
 1. Gentics Mesh: tour of features 
 1. Break (10 min.)
 1. React Static
-1. Features implementation
+1. Features implementation walk-through
 1. Amazon S3 
 1. Wrap-up
 
