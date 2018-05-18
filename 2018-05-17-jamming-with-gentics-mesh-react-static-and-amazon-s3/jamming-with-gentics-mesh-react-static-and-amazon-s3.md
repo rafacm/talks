@@ -4,7 +4,7 @@ slidenumbers: true
 ![inline](assets/gentics-mesh-react-static-amazon-s3-logos.png)
 
 # JAMming with Gentics Mesh, React Static and Amazon S3
-#### Workshop @ We Are Developers / Vienna, May 16th, 2018
+#### We Are Developers Workshop / Vienna, May 17th, 2018
 
 ---
 
@@ -298,12 +298,28 @@ https://github.com/rafacm/carmen-marcos-art-portfolio
 
 # Credits & Refernces
 - Slide 4: [Astronomy Picture of the Day](https://apod.nasa.gov/apod/ap080104.html)
+- Slide 5: [Star Wars Opening Crawl generator](https://brorlandi.github.io/StarWarsIntroCreator)
+- Slide 9: [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- Slide 10: [The Anatomy Lesson of Dr. Nicolaes Tulp](https://en.wikipedia.org/wiki/The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp)
+- Slide 12: [Execution of Louis XVI](https://en.wikipedia.org/wiki/Execution_of_Louis_XVI)
+- Slide 13: [Execution of Louis XVI](https://en.wikipedia.org/wiki/Execution_of_Louis_XVI)
+- Slide 15:  [Man of constant sorrow](https://www.youtube.com/watch?v=meCZ5hWNRFU)
 
 ---
 
 # Credits & References
+- Slide 16: [GraphQL](https://graphql.org/)
+- Slide 20: [Headless CMS](https://headlesscms.org/)
+- Slide 17: [Gentics Mesh](https://getmesh.io/)
+- Slide 19: [React lifecycle methods](https://twitter.com/dan_abramov/status/981712092611989509)
+- Slide 21: [JAMStack](https://jamstack.org)
+- Slide 23: [Website](http://carmen-marcos.art/) & [Source](https://github.com/rafacm/carmen-marcos-art-portfolio)
 - Slide 24: [Website](http://carmen-marcos.art/) & [Source](https://github.com/rafacm/carmen-marcos-art-portfolio)
-- Slide 5: [Star Wars Opening Crawl generator](https://brorlandi.github.io/StarWarsIntroCreator)
+
+---
+
+# Credits & References
+- Slide 25: [Spies Like Us](https://en.wikipedia.org/wiki/Spies_Like_Us)
 - Slide 27: [Gentics Mesh](https://getmesh.io/)
 - Slide 29: [React Static](https://react-static.js.org/)
 - Slide 30: [React Static](https://react-static.js.org/)
