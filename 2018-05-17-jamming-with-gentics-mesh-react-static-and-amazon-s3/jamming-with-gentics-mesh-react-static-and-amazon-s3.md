@@ -1,4 +1,4 @@
-footer: rafael cordones | @rafacm | JAMming with Gentics Mesh, Reat Static and Amazon S3 | We Are Developers Workshops
+footer: rafael cordones | @rafacm | JAMming with Gentics Mesh, Reat Static and Amazon S3 | We Are Developers Workshop
 slidenumbers: true
 
 ![inline](assets/gentics-mesh-react-static-amazon-s3-logos.png)
@@ -12,7 +12,7 @@ slidenumbers: true
 
 1. Intro talk
 1. Gentics Mesh: tour of features 
-1. Break (10 min.)
+1. Break
 1. React Static
 1. Features implementation walk-through
 1. Amazon S3 
@@ -25,7 +25,7 @@ slidenumbers: true
 ---
 
 # What brought you here?
-![inline](assets/you_are_here_galaxy.jpg)
+![inline](assets/16500feetmilkywaykc2_brunier.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ slidenumbers: true
 ---
 
 # Web Content Projects
-![left 35%](assets/screenshot-community-2.png)
+![left 40%](assets/website-home-screenshot.png)
 
 1. (Internal) content publication
 2. (External) user generated content
@@ -50,7 +50,7 @@ Implemented on a **monolithic CMS**.
 ---
 
 ### The content stays the same 
-![left 35%](assets/screenshot-community-2.png)
+![left 40%](assets/website-home-screenshot.png)
 
 ##Web **front-end design** 
 ##**changes** every 2 years but 
@@ -59,7 +59,9 @@ Implemented on a **monolithic CMS**.
 ---
 
 # Thinking (and implementing!) in **components**
-![inline](assets/top-solution-authors.png)
+<br/>
+
+![inline](assets/website-pages-screenshots.png)
 
 ---
 
@@ -167,7 +169,9 @@ Headless / API-first CMSs
 ---
 
 # React: it's components all the way down!
-![inline](assets/top-solution-authors-components.png)
+<br/>
+
+![inline](assets/website-pages-screenshots.png)
 
 ---
 
@@ -179,17 +183,17 @@ Headless / API-first CMSs
 # SEO, SEO, SEO
 ![left 15%](assets/seo.png)
 
-JAMstack
+**JAMstack**
 
 1. **J**avaScript: the language of the web
 2. **A**PIs: to access content
 3. **M**arkup: pre-rendered HTML markup
 
-Amazon S3 for content delivery
+**Amazon S3 for content delivery**
 
 1. Managed, scalable and cheap
- 
-/ **The web browser is the new web server!** /
+
+/ **The browser is the new server!** /
 
 ---
 
@@ -257,10 +261,12 @@ https://github.com/rafacm/carmen-marcos-art-portfolio
 # React Static: Develop
 ![left 75%](assets/react-static-develop.png)
 
-1. Very low conceptual complexity.
-   2. getSiteData()
-   3. getRouteData()
-1. Hot-reload!
+1. Low conceptual complexity:
+   1. getSiteData() -> HOC
+   1. getRouteData() -> HOC
+3. Source data agnostic
+4. Hot-reload
+4. Webpack customization possible
 
 ---
 
@@ -273,13 +279,32 @@ https://github.com/rafacm/carmen-marcos-art-portfolio
   
 ---
 
-# Amazon S3 for website hosting
+# Amazon S3 for content delivery
 ![left 50%](assets/amazon-s3-website-hosting.png)
 
 1. S3 is the static web server
 1. S3 is fully managed and scales
 1. (Optionally) add CDN capabilities with CloudFront
- 
+1. ACHTUNG! Images are still hosted on Gentics Mesh
+1. JavaScript in the browser is still available (**J**AM) 
+1. JavaScript in the browser has access to Gentics Mesh APIs (J**A**M) 
+
+
 --- 
 
 # Thanks for your time! 
+
+---
+
+# Credits & Refernces
+- Slide 4: [Astronomy Picture of the Day](https://apod.nasa.gov/apod/ap080104.html)
+
+---
+
+# Credits & References
+- Slide 24: [Website](http://carmen-marcos.art/) & [Source](https://github.com/rafacm/carmen-marcos-art-portfolio)
+- Slide 5: [Star Wars Opening Crawl generator](https://brorlandi.github.io/StarWarsIntroCreator)
+- Slide 27: [Gentics Mesh](https://getmesh.io/)
+- Slide 29: [React Static](https://react-static.js.org/)
+- Slide 30: [React Static](https://react-static.js.org/)
+- Slide 31: [AWS May Seminar Series](https://www.slideshare.net/AmazonWebServices/aws-may-webinar-series-48671997)
