@@ -1,4 +1,4 @@
-footer: rafael cordones | @rafacm | JAMming with Gentics Mesh, Reat Static and Amazon S3 | We Are Developers Workshops @ APA-IT
+footer: rafael cordones | @rafacm | JAMming with Gentics Mesh, Reat Static and Amazon S3 | We Are Developers Workshops
 slidenumbers: true
 
 ![inline](assets/gentics-mesh-react-static-amazon-s3-logos.png)
