@@ -45,7 +45,7 @@ slidenumbers: true
 2. 1,000x of content items
 2. 100,000x of users
 
-Implemented on a **monolithic CMS**.
+Implemented on a **coupled CMS**.
 
 ---
 
